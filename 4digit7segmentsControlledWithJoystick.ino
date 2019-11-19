@@ -37,8 +37,7 @@ int currentYState = 0;
 int currentButtonState = 1;
 
 int currentNumber = 5555;
-unsigned long delayCounting = 50;  // incrementing interval
-unsigned long lastIncreasing = 0;
+
 
 // segments array, similar to before
 int segments[segSize] = {
@@ -240,9 +239,5 @@ void loop() {
   // increase this delay to see multiplexing in action. At about 100 it becomes obvious
   delay(5);
   digit++;
-  }
-  // increment the number
-  if (millis() - lastIncreasing >= delayCounting) {
-  lastIncreasing = millis();
   }
 }
