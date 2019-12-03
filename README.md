@@ -1,4 +1,4 @@
-# Lab-homework
+# Robotics Lab Homework
 Robotics homework\
 Repository for the Introduction to Robotics course\
 \
