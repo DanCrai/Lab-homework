@@ -15,4 +15,5 @@ Use X-axis to switch to the digit you want to change. Press the button to select
 Homework 4: Creating a Game Menu on the display (controlled with joystick)\
 The menu has 4 options: new game, load game, highscore and settings. New game starts a game on the starting level with 3 lives. Level increases every 5 seconds, and a life is lost every 10. The highscore saves the highest score and the name. The name and starting level can be changed in settings. (to go back to the menu from setting use the X-axis on the joystick - detecting left input).\
 https://youtu.be/gyZUU7DZXx0 \
+https://youtu.be/1HF5DsOhjW4\
 \
